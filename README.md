@@ -1,5 +1,5 @@
 ﻿# Seanema Project
-Aplikasi untuk melihat film - film yang tayang beserta fitur top up dan pemesanan tiket.
+Aplikasi untuk melihat film - film yang tayang beserta fitur top up dan pemesanan tiket.<br>
 Tech yang digunakan :
 1. PHP
 2. JS
