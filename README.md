@@ -5,8 +5,9 @@ Tech yang digunakan :
 2. JS
 3. HTML / CSS
 4. MySQL / MariaDB
-<h2>export file in c/xampp/htdocs</h2>
-<p>use link akses : localhost/seanema<p><br>
+<h2>Cara membuka</h2>
+<p>Export file di directory **c/xampp/htdocs**</p><br>
+<p>lalu gunakan link akses : **localhost/seanema** pada browser<p><br>
 
 <p>*Project belum sepenuhnya selesai.</p>
 
