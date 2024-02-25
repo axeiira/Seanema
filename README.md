@@ -7,7 +7,7 @@ Tech yang digunakan :
 4. MySQL / MariaDB
 <h2>Cara membuka</h2>
 <p>Export file di directory -> <strong>C:\xampp\htdocs</strong></p><br>
-<p>lalu gunakan link akses : <strong>localhost/seanema</strong>pada browser<p><br>
+<p>lalu gunakan link akses : <strong>localhost/seanema</strong> pada browser<p><br>
 
 <p>*Project belum sepenuhnya selesai.</p>
 
